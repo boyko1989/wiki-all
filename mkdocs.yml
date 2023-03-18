@@ -4,37 +4,37 @@ nav:
   - Организация труда: organisation/README.md
   - Науки:
     - Физика: 
-      - Техническая механника: sciences/phisics/README.md
-      - Детали машин:
-      - Сопротивление материалов: 
+      - Техническая механника: sciences/phisics/techmech/README.md
+      - Детали машин: sciences/phisics/machparts/README.md
+      - Сопротивление материалов: sciences/phisics/strmat/README.md
     - Общественные науки:
-      - История:
-      - Социология:
-      - Экономика:
-    - Психология:
+      - История: sciences/socscience/history/README.md
+      - Социология: sciences/socscience/sociology/README.md
+      - Экономика: sciences/socscience/economy/README.md
+    - Психология: sciences/psychology/README.md
   - Профессии: 
     - Производственные:
-      - Столярное дело: professions/README.md
-      - Слесарное дело:
-      - Литейное дело:
-      - Сварные работы:
+      - Столярное дело: professions/production/joinery/README.md
+      - Слесарное дело: professions/production/metalworking/README.md
+      - Литейное дело: professions/production/foundry/README.md
+      - Сварные работы: professions/production/welder/README.md
     - Строительные:
       - Строительство сооружений:
-        - Земляные работы:
-        - Бетон:
-        - Работа с блочными материалами:
-        - Плотницкие работы:
-        - Кровельные работы:
-      - Отделка внешняя и внутренняя:
+        - Земляные работы: professions/building/excavation/README.md
+        - Бетон: professions/building/concrete/README.md
+        - Работа с блочными материалами: professions/building/blocks/README.md
+        - Плотницкие работы: professions/building/carpenter/README.md
+        - Кровельные работы: professions/building/roofing/README.md
+      - Отделка внешняя и внутренняя: professions/finishing/README.md
       - Коммуникации:
-        - Электрика:
-        - Сантехника:
-        - Отопление:
+        - Электрика: professions/communication/electrician/README.md
+        - Сантехника: professions/communication/plumbing/README.md
+        - Отопление: professions/communication/heating/README.md
   - Искусство:
-    - Музыка:
-    - Изобразительное искусство: 
-    - Кино:
-  - Планирование:
+    - Музыка: arts/music/README.md
+    - Изобразительное искусство: arts/iso/README.md
+    - Кино: arts/kino/README.md
+  - Планирование: plans/README.md
 
 
 site_author:
